@@ -1,4 +1,4 @@
-# AI & ML Internship - Task 1: Data Cleaning & Preprocessing
+# Data Cleaning & Preprocessing
 
 ## Overview
 This repository contains the solution for Task 1 of the AI & ML Internship. The task focuses on learning data cleaning and preprocessing techniques using the Titanic Dataset. The goal was to handle missing values, explore the data, and visualize key features.
